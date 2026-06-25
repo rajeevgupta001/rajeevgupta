@@ -32,9 +32,17 @@ Designing scalable software with modern web technologies, thoughtful architectur
 
 ---
 
-# Engineering Philosophy
+## <img src="https://img.icons8.com/fluency/24/idea.png"/> Engineering Philosophy
 
-*Coming Soon...*
+> *"Great software is built by understanding problems before choosing technologies."*
+
+I believe technology is a means to an end—not the end itself. Before writing code, I focus on understanding the problem, exploring trade-offs, and designing solutions that remain simple, maintainable, and scalable.
+
+Rather than chasing every new framework, I invest in strengthening my foundations in computer science, software architecture, and system design. My goal is to build applications that are reliable, intuitive, and genuinely useful to the people who use them.
+
+Every project is an opportunity to improve—not only as a developer, but as an engineer who values clarity, consistency, and continuous learning.
+
+---
 
 ---
 
