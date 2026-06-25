@@ -1,75 +1,73 @@
-<!-- =============================================================== -->
-<!--                        DEVELOPER IDENTITY                        -->
-<!-- =============================================================== -->
-
 <div align="center">
 
 # Rajeev Kumar Gupta
 
-### Building AI-Powered Full-Stack Applications
+### Building software that solves real-world problems with modern web technologies and AI.
 
-Designing scalable software with modern web technologies, thoughtful architecture, and practical Artificial Intelligence.
+<p align="center">
+
+I enjoy designing scalable applications, writing clean and maintainable code,
+and continuously improving my understanding of software engineering through
+real-world projects.
+
+</p>
 
 <br>
 
 <a href="https://github.com/rajeevgupta001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR-PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/idea.png"/> Engineering Philosophy
+## Engineering Philosophy
 
-> *"Great software is built by understanding problems before choosing technologies."*
+> **"Technology should solve problems—not become the problem."**
 
-I believe technology is a means to an end—not the end itself. Before writing code, I focus on understanding the problem, exploring trade-offs, and designing solutions that remain simple, maintainable, and scalable.
+I believe software engineering begins with understanding the problem before selecting the technology. My focus is on building applications that are simple to use, maintainable to develop, and scalable to grow.
 
-Rather than chasing every new framework, I invest in strengthening my foundations in computer science, software architecture, and system design. My goal is to build applications that are reliable, intuitive, and genuinely useful to the people who use them.
-
-Every project is an opportunity to improve—not only as a developer, but as an engineer who values clarity, consistency, and continuous learning.
+Every project I build is an opportunity to strengthen my foundations in computer science, improve my engineering practices, and create software that delivers real value.
 
 ---
 
----
+## Selected Work
 
-# Selected Work
-
-*Coming Soon...*
+> 🚧 Under Construction
 
 ---
 
-# Engineering Toolkit
+## Current Focus
 
-*Coming Soon...*
-
----
-
-# Currently Building
-
-*Coming Soon...*
+> 🚧 Under Construction
 
 ---
 
-# GitHub Dashboard
+## Engineering Toolkit
 
-*Coming Soon...*
+> 🚧 Under Construction
 
 ---
 
-# Let's Connect
+## GitHub Analytics
 
-*Coming Soon...*
+> 🚧 Under Construction
+
+---
+
+## Let's Connect
+
+> 🚧 Under Construction
