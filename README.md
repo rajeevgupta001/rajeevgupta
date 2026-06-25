@@ -2,26 +2,19 @@
 
 # Rajeev Kumar Gupta
 
-### Software Engineering Student • Full-Stack Developer • AI Enthusiast
+### Software Engineering Student • Full-Stack Developer • Backend Enthusiast
 
-Building scalable web applications, AI-powered solutions, and real-world software through modern engineering practices, clean architecture, and continuous learning.
+Building scalable web applications, AI-powered solutions, and production-ready software with a focus on clean architecture, problem solving, and continuous learning.
 
-<p align="center">
-<a href="https://github.com/rajeevgupta001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://YOUR-PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+<a href="https://github.com/rajeevgupta001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
+
 
 ## Current Status
 
@@ -60,9 +53,11 @@ StudyNest brings study planning, collaborative learning, resource management, an
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI` • `Cloudinary`
 
-**Repository:** Available upon first stable release
+Status: 🚧 Active Development
 
-**Live Demo:** Planned after MVP completion
+Repository: Available after MVP release
+
+Live Demo: Planned after stable deployment
 
 ---
 
@@ -84,9 +79,9 @@ VolunteerBridge helps NGOs and volunteers connect through location-aware opportu
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Mapbox` • `Gemini AI`
 
-**Repository:** Coming Soon
-
-**Live Demo:** Coming Soon
+Status: 🚧 Active Development
+Repository: Available after MVP release
+Live Demo: Planned after stable deployment
 
 ---
 
@@ -108,9 +103,12 @@ Designed to help learners build consistency through AI-powered recommendations, 
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI`
 
-**Repository:** Coming Soon
 
-**Live Demo:** Coming Soon
+Status: 🚧 Active Development
+
+Repository: Available after MVP release
+
+Live Demo: Planned after stable deployment
 
 ---
 
@@ -138,31 +136,12 @@ Designed to help learners build consistency through AI-powered recommendations, 
 
 # Engineering Toolkit
 
-# Engineering Toolkit
-
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" />
 
 </div>
+
 
 ---
 
