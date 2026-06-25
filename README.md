@@ -2,16 +2,18 @@
 
 # Rajeev Kumar Gupta
 
-### Software Engineering Student • Full-Stack Developer • Backend Enthusiast
+### Software Engineering Student • Full-Stack Developer • Backend Developer
 
-Building scalable web applications, AI-powered solutions, and production-ready software with a focus on clean architecture, problem solving, and continuous learning.
+Building scalable web applications, backend systems, and AI-powered solutions with clean architecture, modern technologies, and continuous learning.
 
-<p>
-<a href="https://github.com/rajeevgupta001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+<a href="https://github.com/rajeevgupta001">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
+
+</div>
 
 </div>
 <p align="center">
@@ -141,24 +143,20 @@ Live Demo: Planned after stable deployment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" />
 
 </div>
 
-
 ---
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevgupta001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevgupta001&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgupta001&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=rajeevgupta001&theme=github-dark&hide_border=true"/>
 
